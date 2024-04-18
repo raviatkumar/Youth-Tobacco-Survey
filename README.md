@@ -1,1 +1,16 @@
-# Youth-Tobacco-Survey
+# **Project Title : Youth Tobacco Survey**
+
+The Youth Tobacco Usage Dataset provides comprehensive information on various aspects of tobacco use among young individuals, encompassing smoking, smokeless tobacco, experimentation, frequency of use, cessation behavior, exposure to secondhand smoke, and sources of obtaining tobacco products. The dataset covers a wide range of demographics and behavioral patterns related to tobacco consumption, including susceptibility to future tobacco use and exposure to tobacco-related advertisements through mass media and point-of-sale outlets. Additionally, it explores the influence of social events and environments on tobacco use behaviors. The dataset aims to analyze the prevalence and determinants of youth tobacco use, identify trends in tobacco consumption patterns, assess the effectiveness of tobacco control policies, and inform public health interventions targeted at reducing tobacco use among young people. Through comprehensive analysis and interpretation of the dataset, stakeholders can gain insights into the challenges and opportunities in addressing youth tobacco use and develop evidence-based strategies to mitigate its adverse health effects and societal impacts.
+
+
+Summary:
+The Youth Tobacco Survey dataset provides comprehensive insights into various aspects of tobacco use among young individuals, encompassing smoking, experimentation, frequency of use, cessation behavior, exposure to secondhand smoke, and sources of obtaining tobacco products. Through analysis of this dataset, we explored the prevalence and determinants of youth tobacco use, identified trends in tobacco consumption patterns, and evaluated the effectiveness of tobacco control policies. We employed various statistical techniques, including descriptive analysis, visualization, linear regression, and support vector machine (SVM) regression, to understand the data and develop predictive models.
+
+Insights from the analysis revealed several key findings:
+
+Distribution of demographic factors such as gender, age, race, and education level across different tobacco-related measures.
+Trends in tobacco consumption prevalence over time, indicating a potential decrease in smoking rates among young individuals.
+Associations between tobacco consumption and demographic variables, such as gender and education level.
+Evaluation of predictive models, including linear regression and SVM regression, to assess their performance in predicting tobacco consumption rates.
+Conclusion:
+The analysis of the Youth Tobacco Survey dataset provides valuable insights into the prevalence and determinants of youth tobacco use. By understanding the factors influencing tobacco consumption behavior, policymakers and public health officials can develop targeted interventions to reduce smoking rates among young individuals. Additionally, the evaluation of predictive models highlights the importance of employing robust statistical techniques to forecast tobacco consumption trends accurately. Moving forward, continued surveillance and analysis of tobacco-related data are essential for informing evidence-based policies and interventions aimed at reducing the burden of tobacco-related diseases and improving public health outcomes.
